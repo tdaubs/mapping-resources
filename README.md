@@ -1,7 +1,7 @@
 # Mapping Resources
 A collection of mapping resources with a focus on tools to create interactive maps that run in the browser.
 
-Special attention given to pretty much anything realted to [Leaflet at Github](https://github.com/Leaflet/Leaflet) and [Leaflet Official Website](http://www.leafletjs.com).
+Special attention given to pretty much anything related to [Leaflet at Github](https://github.com/Leaflet/Leaflet) and [Leaflet Official Website](http://www.leafletjs.com) and similar mapping technologies.
 
 ### Mapping Resources
 
