@@ -10,3 +10,4 @@ Special attention given to pretty much anything related to [Leaflet](http://www.
 * [Mapbox](http://www.mapbox.com) - Creator of Leaflet is employed here. They make great tools for online mapping.
 * [CartoDB](http://www.cartodb.com) - Impressive platform for making online maps.
 * [OpenLayers](http://openlayers.org) - Another popular mapping library.
+* [BootLeaf](https://github.com/bmcbride/bootleaf) - Responsive template marrying Bootstrap and Leaflet.
